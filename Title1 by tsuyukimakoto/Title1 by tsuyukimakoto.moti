@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.10">
+
+<displayversion>5.4.2</displayversion>
+
+<factory id="1" uuid="044beba5ad3211d7ac9b000393833f6a">
+	<description>スタイル</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="05250c0a92cf4cdc834259d2b7359f52">
+	<description>ペン速度を適用</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="0a5c0b1d4acd11d8b650000a95a6b5a8">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="0dcc884c286f11d8ab08000a9598188a">
+	<description>イメージマスク</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="1595b452229211d78c7f00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="1c5986a34e9646e08fa8e92b03ba1aaf">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="659953f0ba01440aaf68bcd964299605">
+	<description>筆圧を適用</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>ウィジェット</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>イメージ</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="712462a4323911d78f8400039389b702">
+	<description>シェイプ</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="17" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="18" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>プロジェクト</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="20" uuid="aee0a63927494ed19a9667c9f83badfd">
+	<description>素材</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="21" uuid="babfc7777f4711d7aaa7000393833f6a">
+	<description>テキスト</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="22" uuid="caf198bdb7c34dccb8af6ebb4f382ae3">
+	<description>リプリケータ</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="23" uuid="dab733bb21ab47e08874d786d2fdddc9">
+	<description>リプリケータセル</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="24" uuid="dbca752470fd11d7980100039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="25" uuid="deca4859b16011d7a12d0003936f6f92">
+	<description>ProPlugin フィルタ</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="26" uuid="f32e7a31146f11d8a20a000a95af9f7e">
+	<description>グラデーション</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="27" uuid="fca4a88380df4dab943a0962bdb1ae75">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="28" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<template>
+	<theme>TITLE</theme>
+</template>
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolution>1</dynamicResolution>
+	<viewmode>0</viewmode>
+	<overlayOptions>125484</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>アクティブカメラ</cameraName>
+	<mirrorHMD>0</mirrorHMD>
+	<panZoom camera="0" zoom="1" panX="16" panY="6" mode="1" centered="1"/>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>2</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.7999999523162842</mediaVerticalZoom>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>1</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1</videoVerticalZoom>
+	<audioVerticalZoom>1.5555555820465088</audioVerticalZoom>
+	<displayRange in="-445455576 1414062500 3 0" out="6315018308 1000000000 3 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="-445455576 1414062500 3 0" out="6315018308 1000000000 3 0"/>
+	<currentviewvolume originx="-0.31501830788950275" originy="-50.953845301421921" width="6.6300366159999999" height="93.757203014188036"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/324" state="0"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1920</width>
+		<height>1080</height>
+		<duration>360</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>60</frameRate>
+		<NTSC>0</NTSC>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<workingGamut>0</workingGamut>
+		<viewGamut>-1</viewGamut>
+		<backgroundColor red="0" green="0" blue="0" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<sharpScaling>0</sharpScaling>
+		<startTimecode>0</startTimecode>
+		<presetPath>/Applications/Motion.app/Contents/Resources/Japanese.lproj/Presets/Project/Broadcast HD 1080.preset</presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>0</savePreviewMovie>
+	</sceneSettings>
+	<publishSettings>
+		<version>2</version>
+		<target object="18866" channel="./2/369" name="テキスト"/>
+		<target object="18422" channel="./2/369" name="テキスト"/>
+		<target object="18424" channel="./83" name="フォント"/>
+		<target object="18424" channel="./3" name="サイズ"/>
+		<target object="18868" channel="./83" name="フォント"/>
+		<target object="18868" channel="./3" name="サイズ"/>
+		<target object="18868" channel="./14" name="フェース"/>
+		<target object="18868" channel="./30" name="アウトライン"/>
+		<target object="18424" channel="./14" name="フェース"/>
+		<target object="18424" channel="./30" name="アウトライン"/>
+		<target object="18424" channel="./21" name="ドロップシャドウ"/>
+		<target object="18868" channel="./21" name="ドロップシャドウ"/>
+	</publishSettings>
+	<currentFrame>919040 153600 1 0</currentFrame>
+	<currentObject>10000</currentObject>
+	<activeLayer>18419</activeLayer>
+	<timeRange offset="0 1 1 0" duration="921600 153600 1 0"/>
+	<playRange offset="0 1 1 0" duration="921600 153600 1 0"/>
+	<flags>1</flags>
+	<audioTracks>0</audioTracks>
+	<timemarkerset/>
+	<guideset/>
+	<curvesets selected="1"/>
+	<scenenode name="Project" id="10000" factoryID="18" version="5">
+		<scenenode name="ウィジェット" id="10002" factoryID="13" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-2560 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="情報" id="1" flags="8589938704"/>
+			<parameter name="オブジェクト" id="2" flags="8589938704">
+				<parameter name="オプション" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="8589934608" default="0" value="1"/>
+				<parameter name="スナップショット" id="101" flags="8589938706"/>
+				<parameter name="ウィジェット" id="100" flags="8589934608" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-2560 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>268435473</baseFlags>
+		<parameter name="情報" id="1" flags="8589938704"/>
+		<parameter name="オブジェクト" id="2" flags="8589938705"/>
+	</scenenode>
+	<layer name="Group for Mask" id="20175">
+		<scenenode name="Mask for Upper" id="18455" factoryID="16" version="5">
+			<isShapeStyle>0</isShapeStyle>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<enabled>0</enabled>
+			<parameter name="情報" id="1" flags="8589938704">
+				<parameter name="変形" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="-0.328125"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="-76.596293363499242"/>
+					</parameter>
+					<parameter name="調整" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="Y" id="2" flags="8606711824" default="1" value="0.85939379167847385"/>
+					</parameter>
+				</parameter>
+				<parameter name="ライティング" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="シャドウ" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="反射" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="オブジェクト" id="2" flags="8589938704">
+				<parameter name="シェイプ" id="353" flags="8589938704">
+					<parameter name="アニメーション" id="117" flags="8589934610" default="0" value="0">
+						<curve_X/>
+						<curve_Y/>
+						<closed>0</closed>
+					</parameter>
+					<parameter name="シェイプのタイプ" id="100" flags="12884967442" default="5" value="5"/>
+					<parameter name="閉じたシェイプ" id="116" flags="8590000146" default="0" value="1"/>
+					<parameter name="塗りつぶす" id="113" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="塗りのカラー" id="111" flags="12884906000">
+							<foldFlags>15</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="アウトライン" id="108" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="矢印の長さ" id="132" flags="8589934610" default="3" value="3"/>
+						<parameter name="矢印の幅" id="133" flags="8589934610" default="3" value="3"/>
+						<parameter name="筆圧のオーバーストローク" id="136" flags="8724348946">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>0 1 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>1 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+							<rangeName>ストロークの長さ</rangeName>
+						</parameter>
+						<parameter name="ペン速度のオーバーストローク" id="138" flags="8724348946">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>0 1 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>1 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+							<rangeName>ストロークの長さ</rangeName>
+						</parameter>
+					</parameter>
+					<parameter name="サイズ" id="160" flags="8589938704">
+						<foldFlags>8388623</foldFlags>
+						<parameter name="幅" id="1" flags="12901679120" default="1536.40625" value="1536.40625"/>
+						<parameter name="高さ" id="2" flags="12901679120" default="179.76562500000003" value="179.76562500000003"/>
+					</parameter>
+					<parameter name="完了" id="157" flags="8589934610" default="0" value="1"/>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<scenenode name="Mask for Lower" id="18587" factoryID="16" version="5">
+			<isShapeStyle>0</isShapeStyle>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<enabled>0</enabled>
+			<parameter name="情報" id="1" flags="8589938704">
+				<parameter name="変形" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="-1.4999999999987779"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="71.351562499991218"/>
+					</parameter>
+				</parameter>
+				<parameter name="ライティング" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="シャドウ" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="反射" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="オブジェクト" id="2" flags="8589938704">
+				<parameter name="シェイプ" id="353" flags="8589938704">
+					<parameter name="アニメーション" id="117" flags="8589934610" default="0" value="0">
+						<curve_X/>
+						<curve_Y/>
+						<closed>0</closed>
+					</parameter>
+					<parameter name="シェイプのタイプ" id="100" flags="12884967442" default="5" value="5"/>
+					<parameter name="閉じたシェイプ" id="116" flags="8590000146" default="0" value="1"/>
+					<parameter name="塗りつぶす" id="113" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="塗りのカラー" id="111" flags="12884906000">
+							<foldFlags>15</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="アウトライン" id="108" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="矢印の長さ" id="132" flags="8589934610" default="3" value="3"/>
+						<parameter name="矢印の幅" id="133" flags="8589934610" default="3" value="3"/>
+						<parameter name="筆圧のオーバーストローク" id="136" flags="8724348946">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>0 1 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>1 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+							<rangeName>ストロークの長さ</rangeName>
+						</parameter>
+						<parameter name="ペン速度のオーバーストローク" id="138" flags="8724348946">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>0 1 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>1 1 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+							<rangeName>ストロークの長さ</rangeName>
+						</parameter>
+					</parameter>
+					<parameter name="サイズ" id="160" flags="8589938704">
+						<foldFlags>8388623</foldFlags>
+						<parameter name="幅" id="1" flags="12901679120" default="1536.40625" value="1536.40625"/>
+						<parameter name="高さ" id="2" flags="12901679120" default="179.76562500000003" value="179.76562500000003"/>
+					</parameter>
+					<parameter name="完了" id="157" flags="8589934610" default="0" value="1"/>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="情報" id="1" flags="8589938704">
+			<parameter name="ライティング" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="シャドウ" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="反射" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="オブジェクト" id="2" flags="8589938704">
+			<parameter name="固定幅" id="302" flags="12901679124" default="1920" value="1920"/>
+			<parameter name="固定高さ" id="303" flags="12901679124" default="1080" value="1080"/>
+			<parameter name="平坦化" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="レイヤーの順番" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="絞りの幅" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="絞りの高さ" id="313" flags="12884901906" default="1080" value="1080"/>
+		</parameter>
+	</layer>
+	<layer name="Group for text" id="10003">
+		<layer name="Text" id="18419">
+			<scenenode name="Lower Text" id="18866" factoryID="21" version="5">
+				<paragraphMarginsCached cached="0"/>
+				<scrollMarginsCached cached="0"/>
+				<crawlMarginsCached cached="0"/>
+				<host hostID="0"/>
+				<textPathModified textPathModifiedVal="0"/>
+				<paragraphStyle id="10038">
+					<parameter name="配置" id="401" flags="8606777360" default="0" value="1"/>
+				</paragraphStyle>
+				<style name="スタイル" id="18868" factoryID="1">
+					<copyFlags>65535</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>標準</presetName>
+					<timing in="-2560 153600 1 0" out="939520 153600 1 0" offset="-2560 153600 1 0"/>
+					<baseFlags>8657043505</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="フォント" id="83" flags="12884906000">
+						<font>Helvetica</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="サイズ" id="3" flags="8606711824" default="48" value="92"/>
+					<parameter name="フェース" id="14" flags="8589938705">
+						<foldFlags>131072</foldFlags>
+						<parameter name="テクスチャ" id="18" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="85" flags="8590000146"/>
+						<parameter name="不透明度" id="19" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>3</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>476160 153600 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.77222222222222225</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>832000 153600 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.77222222240000005</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.15000000000000002</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>901120 153600 1 0</time>
+									<value>0.20000000000000001</value>
+									<inputTangentTime>-0.14999999999999999</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.92222222222222228</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="ドロップシャドウ" id="21" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="テクスチャ" id="25" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="88" flags="8590000146"/>
+					</parameter>
+					<parameter name="アウトライン" id="30" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="カラー" id="32" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="赤" id="1" flags="8606711824" default="1" value="-0.132036954164505"/>
+							<parameter name="緑" id="2" flags="8606711824" default="0" value="0.29924306273460388"/>
+							<parameter name="青" id="3" flags="8606711824" default="0" value="0.52267402410507202"/>
+						</parameter>
+						<parameter name="テクスチャ" id="34" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="86" flags="8590000146"/>
+					</parameter>
+					<parameter name="グロー" id="38" flags="8589973521">
+						<foldFlags>131072</foldFlags>
+						<parameter name="テクスチャ" id="42" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="87" flags="8590000146"/>
+					</parameter>
+					<parameter name="3D テキスト" id="89" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="ライティング" id="527" flags="8594133009">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="環境" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+					</parameter>
+				</style>
+				<styleRun style="18868" offset="0" length="10"/>
+				<mask name="Image Mask" id="20013" factoryID="4">
+					<flags>8</flags>
+					<timing in="-2560 153600 1 0" out="939520 153600 1 0" offset="-852480 153600 1 0"/>
+					<foldFlags>0</foldFlags>
+					<baseFlags>16</baseFlags>
+					<parameter name="情報" id="1" flags="8589938704"/>
+					<parameter name="オブジェクト" id="2" flags="8589938704">
+						<parameter name="マスク" id="100" flags="77309415440">
+							<parameter name="マスクソース" id="1" flags="77326254096" default="0" value="18587"/>
+						</parameter>
+						<parameter name="マスクを反転" id="102" flags="8606711824" default="0" value="1"/>
+						<parameter name="ステンシル" id="104" flags="8606744592" default="1" value="1"/>
+						<parameter name="ストレッチ" id="105" flags="8606744592" default="0" value="0"/>
+					</parameter>
+				</mask>
+				<aspectRatio>0</aspectRatio>
+				<flags>0</flags>
+				<timing in="-2560 153600 1 0" out="939520 153600 1 0" offset="-2560 153600 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>34078736</baseFlags>
+				<parameter name="情報" id="1" flags="8589938704">
+					<parameter name="変形" id="100" flags="8589938704">
+						<parameter name="位置" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824">
+								<curve type="1" default="0" value="2.6718749999962235">
+									<numberOfKeypoints>1</numberOfKeypoints>
+									<keypoint flags="0">
+										<time>2560 153600 1 0</time>
+										<value>2.6718749999962235</value>
+									</keypoint>
+								</curve>
+							</parameter>
+							<parameter name="Y" id="2" flags="8606711824">
+								<curve type="1" default="0" value="7.0000000000493259">
+									<numberOfKeypoints>3</numberOfKeypoints>
+									<keypoint flags="0">
+										<time>2560 153600 1 0</time>
+										<value>-0.93479042590541894</value>
+										<outputTangentTime>0.88333333333333397</outputTangentTime>
+										<outputTangentValue>-0.28648648648648678</outputTangentValue>
+									</keypoint>
+									<keypoint flags="128">
+										<time>409600 153600 1 0</time>
+										<value>-108.03075725252877</value>
+										<inputTangentTime>-1.1489546780596962</inputTangentTime>
+										<inputTangentValue>0.8177917262587111</inputTangentValue>
+										<outputTangentTime>0.14502529572380216</outputTangentTime>
+										<outputTangentValue>0.083437128391769477</outputTangentValue>
+									</keypoint>
+									<keypoint flags="0">
+										<time>476160 153600 1 0</time>
+										<value>-106.99999999995067</value>
+										<inputTangentTime>-0.14444444444444454</inputTangentTime>
+										<inputTangentValue>0.046846846846846882</inputTangentValue>
+										<outputTangentTime>1.0277777777777777</outputTangentTime>
+										<outputTangentValue>-0.33333333333333331</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+							<parameter name="Z" id="3" flags="8606711824">
+								<curve type="1" default="0" value="0">
+									<numberOfKeypoints>1</numberOfKeypoints>
+									<keypoint flags="0">
+										<time>2560 153600 1 0</time>
+										<value>0</value>
+									</keypoint>
+								</curve>
+							</parameter>
+						</parameter>
+					</parameter>
+					<parameter name="ライティング" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="シャドウ" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="反射" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="ドロップシャドウ" id="208" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="四隅の角" id="207" flags="8589971458">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="クロップ" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="オブジェクト" id="2" flags="8589938704">
+					<parameter name="テキスト" id="369" flags="8606777345">
+						<text>Lower Text</text>
+					</parameter>
+					<parameter name="テキストをレンダリング" id="360" flags="8590000146" default="0" value="0"/>
+					<parameter name="カメラに向ける" id="352" flags="8589934610" default="0" value="0"/>
+					<parameter name="アンカーの位置" id="375" flags="8606777360" default="0" value="3"/>
+					<parameter name="左余白" id="323" flags="8606744592" default="0" value="0"/>
+					<parameter name="右余白" id="324" flags="8606744592" default="0" value="0"/>
+					<parameter name="上余白" id="325" flags="8606744592" default="0" value="0"/>
+					<parameter name="下余白" id="326" flags="8606744592" default="0" value="0"/>
+					<parameter name="パスオプション" id="329" flags="8589971472">
+						<parameter name="シェイプソース" id="339" flags="77330448400" default="0" value="0"/>
+						<parameter name="パスに揃える" id="333" flags="8589934610" default="1" value="1"/>
+					</parameter>
+					<parameter name="段落" id="354" flags="8589938704">
+						<parameter name="段落" id="10038" flags="4240">
+							<parameter name="配置" id="401" flags="8606777360" default="0" value="1"/>
+						</parameter>
+					</parameter>
+					<parameter name="自動縮小" id="370" flags="8606810128" default="0" value="0"/>
+					<parameter name="余白でクロップ" id="372" flags="8606744592" default="0" value="0"/>
+					<parameter name="基本" id="2000" flags="12884938770" factoryID="0">
+						<parameter name="材質" id="10028" flags="12884906002" factoryID="0">
+							<parameter name="カラー" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="不透明度" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</parameter>
+			</scenenode>
+			<scenenode name="Upper Text" id="18422" factoryID="21" version="5">
+				<paragraphMarginsCached cached="0"/>
+				<scrollMarginsCached cached="0"/>
+				<crawlMarginsCached cached="0"/>
+				<host hostID="0"/>
+				<textPathModified textPathModifiedVal="0"/>
+				<paragraphStyle id="10038">
+					<parameter name="配置" id="401" flags="8606777360" default="0" value="1"/>
+				</paragraphStyle>
+				<style name="スタイル" id="18424" factoryID="1">
+					<copyFlags>65535</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>標準</presetName>
+					<timing in="-852480 153600 1 0" out="939520 153600 1 0" offset="-852480 153600 1 0"/>
+					<baseFlags>8657043505</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="フォント" id="83" flags="12884906000">
+						<font>Helvetica</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="サイズ" id="3" flags="8606711824" default="48" value="88"/>
+					<parameter name="フェース" id="14" flags="8589938705">
+						<foldFlags>131072</foldFlags>
+						<parameter name="テクスチャ" id="18" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="85" flags="8590000146"/>
+						<parameter name="不透明度" id="19" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>3</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>1326080 153600 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.77222222222222225</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>1681920 153600 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.77222222222222225</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.14999999999999999</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>1751040 153600 1 0</time>
+									<value>0.19999999999999996</value>
+									<inputTangentTime>-0.14999999999999999</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.14999999999999999</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="ドロップシャドウ" id="21" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="テクスチャ" id="25" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="88" flags="8590000146"/>
+					</parameter>
+					<parameter name="アウトライン" id="30" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="カラー" id="32" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="赤" id="1" flags="8606711824" default="1" value="-0.132036954164505"/>
+							<parameter name="緑" id="2" flags="8606711824" default="0" value="0.29924306273460388"/>
+							<parameter name="青" id="3" flags="8606711824" default="0" value="0.52267402410507202"/>
+						</parameter>
+						<parameter name="テクスチャ" id="34" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="86" flags="8590000146"/>
+					</parameter>
+					<parameter name="グロー" id="38" flags="8589973521">
+						<foldFlags>131072</foldFlags>
+						<parameter name="テクスチャ" id="42" flags="77313609744">
+							<parameter name="イメージ" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="ラップモード" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="ソースメディア" id="87" flags="8590000146"/>
+					</parameter>
+					<parameter name="3D テキスト" id="89" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="ライティング" id="527" flags="8594133009">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="環境" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+					</parameter>
+				</style>
+				<styleRun style="18424" offset="0" length="10"/>
+				<mask name="Image Mask" id="18454" factoryID="4">
+					<flags>8</flags>
+					<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+					<foldFlags>0</foldFlags>
+					<baseFlags>16</baseFlags>
+					<parameter name="情報" id="1" flags="8589938704"/>
+					<parameter name="オブジェクト" id="2" flags="8589938704">
+						<parameter name="マスク" id="100" flags="77309415440">
+							<parameter name="マスクソース" id="1" flags="77326254096" default="0" value="18455"/>
+						</parameter>
+						<parameter name="マスクを反転" id="102" flags="8606711824" default="0" value="1"/>
+						<parameter name="ステンシル" id="104" flags="8606744592" default="1" value="1"/>
+						<parameter name="ストレッチ" id="105" flags="8606744592" default="0" value="0"/>
+					</parameter>
+				</mask>
+				<aspectRatio>0</aspectRatio>
+				<flags>0</flags>
+				<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>34078736</baseFlags>
+				<parameter name="情報" id="1" flags="8589938704">
+					<parameter name="変形" id="100" flags="8589938704">
+						<parameter name="位置" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824">
+								<curve type="1" default="0" value="4.1718749999973284">
+									<numberOfKeypoints>2</numberOfKeypoints>
+									<keypoint flags="0">
+										<time>0 1 1 0</time>
+										<value>6.5000000000226379</value>
+										<outputTangentTime>1.0277777777777777</outputTangentTime>
+										<outputTangentValue>-0.38802083333755155</outputTangentValue>
+									</keypoint>
+									<keypoint flags="0">
+										<time>473600 153600 1 0</time>
+										<value>4.1718749999973284</value>
+										<inputTangentTime>-1.0277777777777777</inputTangentTime>
+										<inputTangentValue>0.38802083333755155</inputTangentValue>
+										<outputTangentTime>1.0277777777777777</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+							<parameter name="Y" id="2" flags="8606711824">
+								<curve type="1" default="0" value="30.21875000000302">
+									<numberOfKeypoints>3</numberOfKeypoints>
+									<keypoint flags="0">
+										<time>0 1 1 0</time>
+										<value>-79.78125000000621</value>
+										<outputTangentTime>0.93888888888888899</outputTangentTime>
+										<outputTangentValue>11.418918918920328</outputTangentValue>
+									</keypoint>
+									<keypoint flags="128">
+										<time>432640 153600 1 0</time>
+										<value>29.124998664134242</value>
+										<inputTangentTime>-0.95498482835695064</inputTangentTime>
+										<inputTangentValue>0.96706270801692551</inputTangentValue>
+										<outputTangentTime>0.089246469006973639</outputTangentTime>
+										<outputTangentValue>-0.14434713218871645</outputTangentValue>
+									</keypoint>
+									<keypoint flags="0">
+										<time>473600 153600 1 0</time>
+										<value>30.21875000000302</value>
+										<inputTangentTime>-0.088888888888888906</inputTangentTime>
+										<inputTangentValue>-1.0810810810812148</inputTangentValue>
+										<outputTangentTime>1.0277777777777777</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+							<parameter name="Z" id="3" flags="8606711824">
+								<curve type="1" default="0" value="0">
+									<numberOfKeypoints>2</numberOfKeypoints>
+									<keypoint flags="0">
+										<time>0 1 1 0</time>
+										<value>0</value>
+										<outputTangentTime>1.0277777777777777</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint flags="0">
+										<time>473600 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-1.0277777777777777</inputTangentTime>
+										<inputTangentValue>-0</inputTangentValue>
+										<outputTangentTime>1.0277777777777777</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+						</parameter>
+					</parameter>
+					<parameter name="ライティング" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="シャドウ" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="反射" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="ドロップシャドウ" id="208" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="四隅の角" id="207" flags="8589971458">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="クロップ" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="オブジェクト" id="2" flags="8589938704">
+					<parameter name="テキスト" id="369" flags="8606777345">
+						<text>Upper Text</text>
+					</parameter>
+					<parameter name="テキストをレンダリング" id="360" flags="8590000146" default="0" value="0"/>
+					<parameter name="カメラに向ける" id="352" flags="8589934610" default="0" value="0"/>
+					<parameter name="左余白" id="323" flags="8606744592" default="0" value="0"/>
+					<parameter name="右余白" id="324" flags="8606744592" default="0" value="0"/>
+					<parameter name="上余白" id="325" flags="8606744592" default="0" value="0"/>
+					<parameter name="下余白" id="326" flags="8606744592" default="0" value="0"/>
+					<parameter name="パスオプション" id="329" flags="8589971472">
+						<parameter name="シェイプソース" id="339" flags="77330448400" default="0" value="0"/>
+						<parameter name="パスに揃える" id="333" flags="8589934610" default="1" value="1"/>
+					</parameter>
+					<parameter name="段落" id="354" flags="8589938704">
+						<parameter name="段落" id="10038" flags="4240">
+							<parameter name="配置" id="401" flags="8606777360" default="0" value="1"/>
+						</parameter>
+					</parameter>
+					<parameter name="自動縮小" id="370" flags="8606810128" default="0" value="0"/>
+					<parameter name="余白でクロップ" id="372" flags="8606744592" default="0" value="0"/>
+					<parameter name="基本" id="2000" flags="12884938770" factoryID="0">
+						<parameter name="材質" id="10028" flags="12884906002" factoryID="0">
+							<parameter name="カラー" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="不透明度" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</parameter>
+			</scenenode>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="-2560 153600 1 0" out="939520 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="情報" id="1" flags="8589938704">
+				<parameter name="ライティング" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="シャドウ" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="反射" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="オブジェクト" id="2" flags="8589938704">
+				<parameter name="固定幅" id="302" flags="12901679124" default="1920" value="1920"/>
+				<parameter name="固定高さ" id="303" flags="12901679124" default="1080" value="1080"/>
+				<parameter name="平坦化" id="311" flags="8589934610" default="0" value="0"/>
+				<parameter name="レイヤーの順番" id="305" flags="8589934610" default="0" value="0"/>
+				<parameter name="絞りの幅" id="312" flags="12884901906" default="1920" value="1920"/>
+				<parameter name="絞りの高さ" id="313" flags="12884901906" default="1080" value="1080"/>
+			</parameter>
+		</layer>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="-2560 153600 1 0" out="939520 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="情報" id="1" flags="8589938704">
+			<parameter name="ライティング" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="シャドウ" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="反射" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="オブジェクト" id="2" flags="8589938704">
+			<parameter name="固定幅" id="302" flags="12901679124" default="1920" value="1920"/>
+			<parameter name="固定高さ" id="303" flags="12901679124" default="1080" value="1080"/>
+			<parameter name="平坦化" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="レイヤーの順番" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="絞りの幅" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="絞りの高さ" id="313" flags="12884901906" default="1080" value="1080"/>
+		</parameter>
+	</layer>
+	<layer name="Group for background" id="20174">
+		<scenenode name="Background" id="10007" factoryID="14" version="5">
+			<validTracks>1</validTracks>
+			<aspectRatio>0</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="情報" id="1" flags="8589938704">
+				<parameter name="変形" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="-1.3281250000066507"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="5.2617187499338058"/>
+					</parameter>
+					<parameter name="調整" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="Y" id="2" flags="8606711824" default="1" value="1.0025921989889859"/>
+					</parameter>
+				</parameter>
+				<parameter name="ライティング" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="シャドウ" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="反射" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="メディア" id="324" flags="8589938704">
+					<foldFlags>4</foldFlags>
+					<parameter name="ソースメディア" id="300" flags="81621221392" default="10458" value="10458"/>
+					<parameter name="ソースメディア" id="325" flags="8590000146"/>
+				</parameter>
+				<parameter name="ページ番号" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="リタイミング値" id="304" flags="8590066066" default="1" value="1"/>
+				<parameter name="リタイミング値のキャッシュ" id="319" flags="8590065810" default="1" value="1"/>
+			</parameter>
+			<parameter name="オブジェクト" id="2" flags="8589938704">
+				<parameter name="ドロップゾーン" id="311" flags="8589934738" default="0" value="1"/>
+				<parameter name="タイプ" id="321" flags="8590000146" default="0" value="3"/>
+				<parameter name="パン" id="326" flags="77309415442">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="調整" id="327" flags="77309415442">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="塗りの不透明度" id="328" flags="8606711824" default="0" value="0"/>
+				<parameter name="塗りのカラー" id="329" flags="8589938704">
+					<foldFlags>11</foldFlags>
+				</parameter>
+				<parameter name="消去" id="315" flags="8606777360" default="0" value="0"/>
+				<parameter name="幅" id="313" flags="8589934610" default="1" value="1920"/>
+				<parameter name="高さ" id="314" flags="8589934610" default="1" value="1080"/>
+			</parameter>
+			<filter name="Blur" id="18416" factoryID="25" pluginUUID="E472D646-2C92-464E-98A1-91CF8F162AD8" pluginVersion="3" pluginName="Blur" pluginDynamicParams="0">
+				<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="適応量" id="1" flags="12901679120">
+					<curve type="1" default="4" value="64">
+						<numberOfKeypoints>3</numberOfKeypoints>
+						<min>0</min>
+						<max>4000</max>
+						<keypoint flags="0">
+							<time>0 1 1 0</time>
+							<value>64</value>
+							<outputTangentTime>1.455555555555557</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint flags="128">
+							<time>670720 153600 1 0</time>
+							<value>28.09655796549395</value>
+							<inputTangentTime>-0.43219768617581522</inputTangentTime>
+							<inputTangentValue>23.403066645370124</inputTangentValue>
+							<outputTangentTime>0.28314632451858657</outputTangentTime>
+							<outputTangentValue>-15.332086485082144</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>803840 153600 1 0</time>
+							<value>0</value>
+							<inputTangentTime>-0.28888888888888881</inputTangentTime>
+							<inputTangentValue>0</inputTangentValue>
+							<outputTangentTime>1.7444444444444445</outputTangentTime>
+							<outputTangentValue>-0</outputTangentValue>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="横" id="2" flags="12901679120" default="100" value="100"/>
+				<parameter name="垂直" id="3" flags="12901679120" default="100" value="100"/>
+				<parameter name="クロップ" id="4" flags="12901679104" default="0" value="0"/>
+				<parameter name="Prescale Input" id="5" flags="12905938992" default="0" value="0"/>
+				<parameter name="360° 対応" id="6" flags="12901679120" default="0" value="0"/>
+				<parameter name="ミックス" id="10001" flags="12901679104" default="1" value="1"/>
+				<parameter name="反転" id="10002" flags="12905938976" default="0" value="0"/>
+				<parameter name="入力ポイント" id="10003" flags="12905938976" default="1" value="1"/>
+			</filter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="919040 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="情報" id="1" flags="8589938704">
+			<parameter name="ライティング" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="シャドウ" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="反射" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="オブジェクト" id="2" flags="8589938704">
+			<parameter name="固定幅" id="302" flags="12901679124" default="1920" value="1920"/>
+			<parameter name="固定高さ" id="303" flags="12901679124" default="1080" value="1080"/>
+			<parameter name="平坦化" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="レイヤーの順番" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="絞りの幅" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="絞りの高さ" id="313" flags="12884901906" default="1080" value="1080"/>
+		</parameter>
+	</layer>
+
+	<footage name="メディアのレイヤー" id="10006">
+		<clip name="Drop Zone" id="10458">
+			<pathURL>Drop Zone.tiff</pathURL>
+			<missingWidth>1200</missingWidth>
+			<missingHeight>1200</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="情報" id="1" flags="8589938704"/>
+			<parameter name="オブジェクト" id="2" flags="8589938704">
+				<parameter name="ピクセルのアスペクト比" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="フレームレート" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="固定幅" id="114" flags="12884901888" default="1200" value="1200"/>
+				<parameter name="固定高さ" id="115" flags="12884901888" default="1200" value="1200"/>
+				<parameter name="背景カラーを使用" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景カラー" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="赤" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="緑" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="青" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="1"/>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="0 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="情報" id="1" flags="8589938704"/>
+		<parameter name="オブジェクト" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>
